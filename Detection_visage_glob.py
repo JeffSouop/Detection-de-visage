@@ -7,9 +7,9 @@ import face_recognition
 
 # Appel des differents directory
 
-input_dir = "C:\\Users\\willy\\OneDrive\\Bureau\\image"
-output_dir = "C:\\Users\\willy\\OneDrive\\Bureau\\sauvegarde"
-trash_dir = "C:\\Users\\willy\\OneDrive\\Bureau\\corbeille"
+input_dir = "path of data base imagee"
+output_dir = "path of good image"
+trash_dir = "path of trash image"
 
 
 ############################################################################# Algorithme utilisant la bibliotheque facial-recognition
